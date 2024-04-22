@@ -1,0 +1,506 @@
+[
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Hubert Oliveras",
+        "course": "DB",
+        "roll": "02984",
+        "marks": "59",
+        "email": "Annika Hoffman_Naoma Fritts@OOP.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Toshiko Hillyard",
+        "course": "Cloud",
+        "roll": "12899",
+        "marks": "62",
+        "email": "Margene Moores_Marylee Capasso@DB.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Celeste Lollis",
+        "course": "PF",
+        "roll": "21267",
+        "marks": "45",
+        "email": "Jeannetta Golden_Jenna Montague@DSA.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Elenore Choy",
+        "course": "DB",
+        "roll": "32877",
+        "marks": "29",
+        "email": "Billi Clore_Mitzi Seldon@DB.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Sheryll Towler",
+        "course": "DSA",
+        "roll": "41487",
+        "marks": "41",
+        "email": "Claude Panos_Judie Chipps@OOP.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Margene Moores",
+        "course": "MVC",
+        "roll": "52771",
+        "marks": "32",
+        "email": "Toshiko Hillyard_Clementina Menke@MVC.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Neda Briski",
+        "course": "OOP",
+        "roll": "61973",
+        "marks": "69",
+        "email": "Alberta Freund_Elenore Choy@DB.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Claude Panos",
+        "course": "Cloud",
+        "roll": "72409",
+        "marks": "85",
+        "email": "Sheryll Towler_Alberta Freund@Cloud.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Celeste Lollis",
+        "course": "MVC",
+        "roll": "81492",
+        "marks": "64",
+        "email": "Nicole Harwood_Claude Panos@MVC.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Cordie Harnois",
+        "course": "OOP",
+        "roll": "92882",
+        "marks": "51",
+        "email": "Judie Chipps_Clementina Menke@MVC.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Kena Wild",
+        "course": "DSA",
+        "roll": "102285",
+        "marks": "35",
+        "email": "Dustin Feagins_Margene Moores@OOP.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Ernest Rossbach",
+        "course": "DB",
+        "roll": "111449",
+        "marks": "53",
+        "email": "Maybell Duguay_Abram Nagao@OOP.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Latia Vanhoose",
+        "course": "DB",
+        "roll": "122502",
+        "marks": "27",
+        "email": "Latia Vanhoose_Mitzi Seldon@OOP.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Latia Vanhoose",
+        "course": "MVC",
+        "roll": "132110",
+        "marks": "55",
+        "email": "Eda Neathery_Nicole Harwood@Cloud.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Neda Briski",
+        "course": "PF",
+        "roll": "141770",
+        "marks": "42",
+        "email": "Margene Moores_Michelle Ruggiero@MVC.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Latia Vanhoose",
+        "course": "DB",
+        "roll": "152159",
+        "marks": "27",
+        "email": "Claude Panos_Santa Kerfien@DB.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Loris Crossett",
+        "course": "MVC",
+        "roll": "161771",
+        "marks": "36",
+        "email": "Mitzi Seldon_Jenna Montague@MVC.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Annika Hoffman",
+        "course": "OOP",
+        "roll": "171660",
+        "marks": "22",
+        "email": "Taryn Brownlee_Mitzi Seldon@MVC.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Santa Kerfien",
+        "course": "PF",
+        "roll": "182129",
+        "marks": "56",
+        "email": "Judie Chipps_Taryn Brownlee@Cloud.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Mickey Cortright",
+        "course": "DB",
+        "roll": "192537",
+        "marks": "62",
+        "email": "Ernest Rossbach_Marylee Capasso@Cloud.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Loris Crossett",
+        "course": "PF",
+        "roll": "201487",
+        "marks": "96",
+        "email": "Elenore Choy_Latia Vanhoose@Cloud.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Niki Klimek",
+        "course": "PF",
+        "roll": "211508",
+        "marks": "23",
+        "email": "Cordie Harnois_Judie Chipps@PF.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Kena Wild",
+        "course": "Cloud",
+        "roll": "221750",
+        "marks": "60",
+        "email": "Mitzi Seldon_Jenna Montague@DSA.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Jc Andrepont",
+        "course": "DSA",
+        "roll": "232060",
+        "marks": "58",
+        "email": "Billi Clore_Abram Nagao@MVC.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Anna Santos",
+        "course": "Cloud",
+        "roll": "242254",
+        "marks": "68",
+        "email": "Jc Andrepont_Hubert Oliveras@Cloud.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Alberta Freund",
+        "course": "OOP",
+        "roll": "251805",
+        "marks": "83",
+        "email": "Annika Hoffman_Sheryll Towler@MVC.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Maybell Duguay",
+        "course": "Cloud",
+        "roll": "261439",
+        "marks": "20",
+        "email": "Nicole Harwood_Judie Chipps@DB.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Paris Hutton",
+        "course": "DSA",
+        "roll": "271472",
+        "marks": "99",
+        "email": "Sheryll Towler_Alberta Freund@DSA.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Cheri Kenney",
+        "course": "Cloud",
+        "roll": "281408",
+        "marks": "43",
+        "email": "Annika Hoffman_Melani Engberg@Cloud.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Dustin Feagins",
+        "course": "DSA",
+        "roll": "291984",
+        "marks": "82",
+        "email": "Abram Nagao_Kena Wild@Cloud.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Claude Panos",
+        "course": "Cloud",
+        "roll": "302130",
+        "marks": "59",
+        "email": "Sheryll Towler_Leontine Phillips@PF.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Anna Santos",
+        "course": "DB",
+        "roll": "311589",
+        "marks": "79",
+        "email": "Celeste Lollis_Mickey Cortright@DSA.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Cheri Kenney",
+        "course": "MVC",
+        "roll": "321816",
+        "marks": "24",
+        "email": "Kena Wild_Michelle Ruggiero@DB.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Loris Crossett",
+        "course": "PF",
+        "roll": "332739",
+        "marks": "62",
+        "email": "Michelle Ruggiero_Clementina Menke@DB.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Mickey Cortright",
+        "course": "DSA",
+        "roll": "342003",
+        "marks": "44",
+        "email": "Mitzi Seldon_Jeannetta Golden@PF.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Hubert Oliveras",
+        "course": "OOP",
+        "roll": "351719",
+        "marks": "63",
+        "email": "Lawanda Wohlwend_Abram Nagao@MVC.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Sebrina Maresca",
+        "course": "PF",
+        "roll": "361316",
+        "marks": "62",
+        "email": "Nicole Harwood_Latia Vanhoose@DB.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Jalisa Swenson",
+        "course": "PF",
+        "roll": "372873",
+        "marks": "45",
+        "email": "Ernest Rossbach_Toshiko Hillyard@DB.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Kizzy Brenner",
+        "course": "DB",
+        "roll": "381712",
+        "marks": "36",
+        "email": "Paris Hutton_Kena Wild@MVC.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Toshiko Hillyard",
+        "course": "DB",
+        "roll": "392218",
+        "marks": "47",
+        "email": "Leontine Phillips_Billi Clore@MVC.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Kizzy Brenner",
+        "course": "Cloud",
+        "roll": "402409",
+        "marks": "27",
+        "email": "Ernest Rossbach_Gonzalo Ferebee@OOP.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Anna Santos",
+        "course": "DSA",
+        "roll": "411479",
+        "marks": "42",
+        "email": "Kena Wild_Mitzi Seldon@DB.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Elenore Choy",
+        "course": "PF",
+        "roll": "422704",
+        "marks": "66",
+        "email": "Marylee Capasso_Nicole Harwood@MVC.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Jalisa Swenson",
+        "course": "OOP",
+        "roll": "431352",
+        "marks": "25",
+        "email": "Gonzalo Ferebee_Judie Chipps@DB.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Somer Stoecker",
+        "course": "Cloud",
+        "roll": "442028",
+        "marks": "34",
+        "email": "Taryn Brownlee_Taryn Brownlee@MVC.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Maybell Duguay",
+        "course": "DSA",
+        "roll": "452141",
+        "marks": "29",
+        "email": "Leontine Phillips_Elenore Choy@Cloud.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Dustin Feagins",
+        "course": "PF",
+        "roll": "461839",
+        "marks": "51",
+        "email": "Neda Briski_Elenore Choy@Cloud.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Annika Hoffman",
+        "course": "OOP",
+        "roll": "472550",
+        "marks": "35",
+        "email": "Mitzi Seldon_Abram Nagao@DSA.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Paris Hutton",
+        "course": "DB",
+        "roll": "481229",
+        "marks": "57",
+        "email": "Clementina Menke_Paris Hutton@MVC.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Paris Hutton",
+        "course": "DSA",
+        "roll": "492159",
+        "marks": "60",
+        "email": "Nicole Harwood_Marylee Capasso@OOP.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Jenna Montague",
+        "course": "MVC",
+        "roll": "502585",
+        "marks": "43",
+        "email": "Hubert Oliveras_Jc Andrepont@DSA.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Billi Clore",
+        "course": "Cloud",
+        "roll": "512047",
+        "marks": "76",
+        "email": "Taryn Brownlee_Judie Chipps@DSA.com"
+    },
+    {
+        "age": "29",
+        "gender": "Male",
+        "name": "Toshiko Hillyard",
+        "course": "OOP",
+        "roll": "521221",
+        "marks": "77",
+        "email": "Hubert Oliveras_Latia Vanhoose@MVC.com"
+    },
+    {
+        "age": "28",
+        "gender": "Male",
+        "name": "Margene Moores",
+        "course": "PF",
+        "roll": "531530",
+        "marks": "53",
+        "email": "Cheri Kenney_Melani Engberg@OOP.com"
+    },
+    {
+        "age": "29",
+        "gender": "Female",
+        "name": "Claude Panos",
+        "course": "OOP",
+        "roll": "542821",
+        "marks": "28",
+        "email": "Hubert Oliveras_Priscila Tavernier@PF.com"
+    },
+    {
+        "age": "28",
+        "gender": "Female",
+        "name": "Mickey Cortright",
+        "course": "DB",
+        "roll": "551389",
+        "marks": "43",
+        "email": "Tijuana Kropf_Jenna Montague@DB.com"
+    }
+]
