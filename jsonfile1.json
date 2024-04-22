@@ -1,0 +1,459 @@
+{
+  "products": [
+    {
+      "name": "carrot",
+      "category": "vegetables",
+      "description": "Root vegetable, usually orange in color",
+      "price": 1.5,
+      "quantity_available": 100
+    },
+    {
+      "name": "tomato",
+      "category": "vegetables",
+      "description": "Red, round fruit, often used as a vegetable",
+      "price": 2,
+      "quantity_available": 80
+    },
+    {
+      "name": "onion",
+      "category": "vegetables",
+      "description": "Edible bulb vegetable, often used in cooking",
+      "price": 1,
+      "quantity_available": 120
+    },
+    {
+      "name": "pumpkin",
+      "category": "vegetables",
+      "description": "Large, round, orange squash",
+      "price": 3,
+      "quantity_available": 50
+    },
+    {
+      "name": "cucumber",
+      "category": "vegetables",
+      "description": "Long, green, edible fruit with seeds",
+      "price": 1.5,
+      "quantity_available": 60
+    },
+    {
+      "name": "garlic",
+      "category": "vegetables",
+      "description": "Pungent bulb used in cooking and medicine",
+      "price": 0.5,
+      "quantity_available": 200
+    },
+    {
+      "name": "ginger",
+      "category": "vegetables",
+      "description": "Spicy root used in cooking and beverages",
+      "price": 2.5,
+      "quantity_available": 40
+    },
+    {
+      "name": "lemon",
+      "category": "vegetables",
+      "description": "Citrus fruit with sour taste",
+      "price": 0.75,
+      "quantity_available": 150
+    },
+    {
+      "name": "apple",
+      "category": "fruits",
+      "description": "Sweet and crunchy fruit with red or green skin",
+      "price": 1.2,
+      "quantity_available": 100
+    },
+    {
+      "name": "banana",
+      "category": "fruits",
+      "description": "Long, curved fruit with yellow skin and soft flesh",
+      "price": 0.5,
+      "quantity_available": 120
+    },
+    {
+      "name": "orange",
+      "category": "fruits",
+      "description": "Round citrus fruit with orange skin and juicy flesh",
+      "price": 1,
+      "quantity_available": 80
+    },
+    {
+      "name": "watermelon",
+      "category": "fruits",
+      "description": "Large, green fruit with sweet, juicy red flesh",
+      "price": 5,
+      "quantity_available": 30
+    },
+    {
+      "name": "grapes",
+      "category": "fruits",
+      "description": "Small, round fruit, usually purple or green, used for eating or making wine",
+      "price": 3,
+      "quantity_available": 60
+    },
+    {
+      "name": "mango",
+      "category": "fruits",
+      "description": "Tropical fruit with sweet, juicy flesh and large seed inside",
+      "price": 2,
+      "quantity_available": 40
+    },
+    {
+      "name": "tv",
+      "category": "electronics",
+      "description": "Television set, used for entertainment",
+      "price": 500,
+      "quantity_available": 20
+    },
+    {
+      "name": "smartphone",
+      "category": "electronics",
+      "description": "Mobile phone with advanced features",
+      "price": 600,
+      "quantity_available": 40
+    },
+    {
+      "name": "refrigerator",
+      "category": "electronics",
+      "description": "Appliance used for cooling and preserving food",
+      "price": 800,
+      "quantity_available": 15
+    },
+    {
+      "name": "washing machine",
+      "category": "electronics",
+      "description": "Appliance used for washing clothes",
+      "price": 700,
+      "quantity_available": 25
+    },
+    {
+      "name": "fan",
+      "category": "electronics",
+      "description": "Device used for circulating air in a room",
+      "price": 50,
+      "quantity_available": 50
+    },
+    {
+      "name": "air conditioner",
+      "category": "electronics",
+      "description": "Appliance used for cooling indoor air",
+      "price": 1000,
+      "quantity_available": 10
+    }
+  ],
+  "customers": [
+    {
+      "name": "JohnDoe",
+      "city": "New York",
+      "phone": "+123456789",
+      "email": "johndoe@example.com"
+    },
+    {
+      "name": "JaneSmith",
+      "city": "Los Angeles",
+      "phone": "+987654321",
+      "email": "janesmith@example.com"
+    },
+    {
+      "name": "AliceJohnson",
+      "city": "Chicago",
+      "phone": "+1122334455",
+      "email": "alicejohnson@example.com"
+    },
+    {
+      "name": "AvaHernandez",
+      "city": "San Antonio",
+      "phone": "+1122334455",
+      "email": "avahernandez@example.com"
+    },
+    {
+      "name": "AlexanderWalker",
+      "city": "San Diego",
+      "phone": "+1122334455",
+      "email": "alexanderwalker@example.com"
+    },
+    {
+      "name": "IsabellaKing",
+      "city": "Austin",
+      "phone": "+1122334455",
+      "email": "isabellaking@example.com"
+    },
+    {
+      "name": "EthanLopez",
+      "city": "Dallas",
+      "phone": "+1122334455",
+      "email": "ethanlopez@example.com"
+    },
+    {
+      "name": "SophiaPerez",
+      "city": "San Jose",
+      "phone": "+1122334455",
+      "email": "sophiaperez@example.com"
+    },
+    {
+      "name": "MichaelGonzalez",
+      "city": "Jacksonville",
+      "phone": "+1122334455",
+      "email": "michaelgonzalez@example.com"
+    },
+    {
+      "name": "OliviaWilson",
+      "city": "Indianapolis",
+      "phone": "+1122334455",
+      "email": "oliviawilson@example.com"
+    },
+    {
+      "name": "DanielTaylor",
+      "city": "San Francisco",
+      "phone": "+1122334455",
+      "email": "danieltaylor@example.com"
+    },
+    {
+      "name": "EmilyMartinez",
+      "city": "Columbus",
+      "phone": "+1122334455",
+      "email": "emilymartinez@example.com"
+    },
+    {
+      "name": "MatthewAnderson",
+      "city": "Fort Worth",
+      "phone": "+1122334455",
+      "email": "matthewanderson@example.com"
+    },
+    {
+      "name": "CharlotteThomas",
+      "city": "Charlotte",
+      "phone": "+1122334455",
+      "email": "charlottethomas@example.com"
+    },
+    {
+      "name": "DavidHernandez",
+      "city": "Detroit",
+      "phone": "+1122334455",
+      "email": "davidhernandez@example.com"
+    },
+    {
+      "name": "SofiaMoore",
+      "city": "El Paso",
+      "phone": "+1122334455",
+      "email": "sofiamoore@example.com"
+    },
+    {
+      "name": "JamesJackson",
+      "city": "Memphis",
+      "phone": "+1122334455",
+      "email": "jamesjackson@example.com"
+    },
+    {
+      "name": "AmeliaWhite",
+      "city": "Seattle",
+      "phone": "+1122334455",
+      "email": "ameliawhite@example.com"
+    },
+    {
+      "name": "BenjaminHarris",
+      "city": "Denver",
+      "phone": "+1122334455",
+      "email": "benjaminharris@example.com"
+    },
+    {
+      "name": "ChloeLee",
+      "city": "Boston",
+      "phone": "+1122334455",
+      "email": "chlolee@example.com"
+    }
+  ],
+  "orders": [
+    {
+      "customer": "JohnDoe",
+      "products": [
+        {
+          "name": "carrot",
+          "quantity": 2
+        },
+        {
+          "name": "chicken",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2024-04-30",
+      "total_amount": 12
+    },
+    {
+      "customer": "JaneSmith",
+      "products": [
+        {
+          "name": "tv",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2024-05-01",
+      "total_amount": 500
+    },
+    {
+      "customer": "AliceJohnson",
+      "products": [
+        {
+          "name": "carrot",
+          "quantity": 1
+        },
+        {
+          "name": "beef",
+          "quantity": 2
+        }
+      ],
+      "order_date": "2024-05-02",
+      "total_amount": 22
+    },
+    {
+      "customer": "JohnDoe",
+      "products": [
+        {
+          "name": "banana",
+          "quantity": 3
+        },
+        {
+          "name": "apple",
+          "quantity": 2
+        }
+      ],
+      "order_date": "2024-05-03",
+      "total_amount": 7
+    },
+    {
+      "customer": "JaneSmith",
+      "products": [
+        {
+          "name": "orange",
+          "quantity": 5
+        },
+        {
+          "name": "grapes",
+          "quantity": 2
+        }
+      ],
+      "order_date": "2024-05-04",
+      "total_amount": 11
+    },
+    {
+      "customer": "AliceJohnson",
+      "products": [
+        {
+          "name": "chicken",
+          "quantity": 3
+        },
+        {
+          "name": "beef",
+          "quantity": 2
+        }
+      ],
+      "order_date": "2024-05-05",
+      "total_amount": 31
+    },
+    {
+      "customer": "JohnDoe",
+      "products": [
+        {
+          "name": "pumpkin",
+          "quantity": 1
+        },
+        {
+          "name": "cucumber",
+          "quantity": 2
+        }
+      ],
+      "order_date": "2024-05-06",
+      "total_amount": 7
+    },
+    {
+      "customer": "JaneSmith",
+      "products": [
+        {
+          "name": "fish",
+          "quantity": 2
+        },
+        {
+          "name": "egg",
+          "quantity": 12
+        }
+      ],
+      "order_date": "2024-05-07",
+      "total_amount": 20
+    },
+    {
+      "customer": "AliceJohnson",
+      "products": [
+        {
+          "name": "tomato",
+          "quantity": 4
+        },
+        {
+          "name": "onion",
+          "quantity": 3
+        }
+      ],
+      "order_date": "2024-05-08",
+      "total_amount": 10
+    },
+    {
+      "customer": "JohnDoe",
+      "products": [
+        {
+          "name": "tv",
+          "quantity": 2
+        },
+        {
+          "name": "smartphone",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2024-05-09",
+      "total_amount": 1700
+    },
+    {
+      "customer": "JaneSmith",
+      "products": [
+        {
+          "name": "lemon",
+          "quantity": 5
+        },
+        {
+          "name": "ginger",
+          "quantity": 2
+        }
+      ],
+      "order_date": "2024-05-10",
+      "total_amount": 9
+    },
+    {
+      "customer": "AliceJohnson",
+      "products": [
+        {
+          "name": "watermelon",
+          "quantity": 1
+        },
+        {
+          "name": "mango",
+          "quantity": 3
+        }
+      ],
+      "order_date": "2024-05-11",
+      "total_amount": 17
+    },
+    {
+      "customer": "JohnDoe",
+      "products": [
+        {
+          "name": "apple",
+          "quantity": 2
+        },
+        {
+          "name": "banana",
+          "quantity": 2
+        }
+      ],
+      "order_date": "2024-05-12",
+      "total_amount": 2.4
+    }
+  ]
+}
