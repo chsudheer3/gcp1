@@ -1,0 +1,11 @@
+from google.cloud import firestore
+
+db = firestore.Client(project="glossy-ally-420106",database="supermarket")
+
+data= [{"Emp_ID": "EMP001","Name":" Sam Curran","position": "Cashier", "contact":{ "Email":"sam.curran@super.com","phone":7312456890}},
+{"Emp_ID": "EMP002","Name":" MS Dhoni","position": "Store Manager", "contact":{ "Email":"msdhoni@super.com","phone":9876543290}}]
+for i in data:
+    doc = db.collection("Employees").document()
+    doc.set(i,merge=True)
+
+    print("Added Successfully")
